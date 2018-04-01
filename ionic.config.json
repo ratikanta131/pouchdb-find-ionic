@@ -1,0 +1,8 @@
+{
+  "name": "pouchdb-find-sqlite-adapter",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
